@@ -1,0 +1,14 @@
+C:\Users\krisi\Downloads\Csharp\JetSkiFleet\bin\Debug\net8.0\JetSkiFleet.exe
+C:\Users\krisi\Downloads\Csharp\JetSkiFleet\bin\Debug\net8.0\JetSkiFleet.deps.json
+C:\Users\krisi\Downloads\Csharp\JetSkiFleet\bin\Debug\net8.0\JetSkiFleet.runtimeconfig.json
+C:\Users\krisi\Downloads\Csharp\JetSkiFleet\bin\Debug\net8.0\JetSkiFleet.dll
+C:\Users\krisi\Downloads\Csharp\JetSkiFleet\bin\Debug\net8.0\JetSkiFleet.pdb
+C:\Users\krisi\Downloads\Csharp\JetSkiFleet\obj\Debug\net8.0\JetSkiFleet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisi\Downloads\Csharp\JetSkiFleet\obj\Debug\net8.0\JetSkiFleet.AssemblyInfoInputs.cache
+C:\Users\krisi\Downloads\Csharp\JetSkiFleet\obj\Debug\net8.0\JetSkiFleet.AssemblyInfo.cs
+C:\Users\krisi\Downloads\Csharp\JetSkiFleet\obj\Debug\net8.0\JetSkiFleet.csproj.CoreCompileInputs.cache
+C:\Users\krisi\Downloads\Csharp\JetSkiFleet\obj\Debug\net8.0\JetSkiFleet.dll
+C:\Users\krisi\Downloads\Csharp\JetSkiFleet\obj\Debug\net8.0\refint\JetSkiFleet.dll
+C:\Users\krisi\Downloads\Csharp\JetSkiFleet\obj\Debug\net8.0\JetSkiFleet.pdb
+C:\Users\krisi\Downloads\Csharp\JetSkiFleet\obj\Debug\net8.0\JetSkiFleet.genruntimeconfig.cache
+C:\Users\krisi\Downloads\Csharp\JetSkiFleet\obj\Debug\net8.0\ref\JetSkiFleet.dll
